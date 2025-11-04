@@ -5,6 +5,7 @@
 - Recolor **regular fire** with **cyan (or soul) fire**.
 - Most red colored block got recolored to blue.
 - Supported some custom model mobs in Wynncraft.
+- Emissive block and weapon in the dark.
 - Cyan-flame themed fire weapon.
 #
 
@@ -14,6 +15,7 @@
 > **Note**
 
 - Make sure to place it on top of the server pack for it to work (require [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker) or [Serverpack Priority](https://modrinth.com/mod/serverpack-priority))
+- If blocks do not glow (because of **Sodium**), you will need [Continuity](https://modrinth.com/mod/continuity) with **_Emissive ON_**.
 - For the **smaller-fire** version, you can use it without the **main** version.
 
 > **Licence**
