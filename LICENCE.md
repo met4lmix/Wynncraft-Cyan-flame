@@ -18,10 +18,10 @@ You ARE allowed to:
 You are NOT allowed to:
 ---------------------------------------
 - Use this resource pack or its contents for **commercial purposes**  
-  + (including but not limited to: monetized videos, ad-supported streams, paid modpacks, or any for-profit distribution).
+  + (including but not limited to: ad-supported streams, paid modpacks, or any for-profit distribution).
 - Modify, remix, or create derivative versions of this resource pack.
 - Reupload or redistribute the file itself (e.g., on Mediafire, Google Drive, Dropbox, CurseForge, etc.).
-- Include this resource pack in any **modpack or bundled distribution** without prior written permission from Met4lmix
+- Include this resource pack in any **modpack or bundled distribution** without permission
   + DM innert6142 on discord for permission (don't be shy, just ask).
 
 ---------------------------------------
