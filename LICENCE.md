@@ -12,8 +12,7 @@ You ARE allowed to:
 - Share the resource pack, but only via the official download link:
   https://modrinth.com/resourcepack/wynncraft-cyan-flame
 - Attribution is not required, but appreciated.  
-  If you wish to give credit, you may write:  
-  "Cyan flame by Met4lmix"
+  If you wish to give credit, you may write: "Cyan flame by Met4lmix"
 
 ---------------------------------------
 You are NOT allowed to:
