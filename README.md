@@ -1,6 +1,9 @@
 # Wynncraft Cyan flame
 [![Download](https://github.com/met4lmix/Download-buttons/blob/main/modrinth_download.png)](https://modrinth.com/resourcepack/wynncraft-cyan-flame/versions)
 
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-cyan-flame?logo=modrinth)
+
+
 > **Summary**
 - Recolor **regular fire** with **cyan (or soul) fire**.
 - Most red colored block got recolored to blue.
