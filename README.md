@@ -31,3 +31,9 @@
 - If blocks do not glow (because of **Sodium**), you will need [Continuity](https://modrinth.com/mod/continuity) with **_Emissive ON_**.
 - If you are using **sodium** and the _lava fog_ is not recolored then install [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support).
 - For the **smaller-fire** version, you can use it without the **main** version.
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K51RMPIV)
+
+</div>
