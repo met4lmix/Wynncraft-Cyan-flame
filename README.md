@@ -1,8 +1,17 @@
-# Wynncraft: Cyan flame
+<div align="center">
+  
+# Wynncraft Cyan flame
+
+</div>
 
 ![Cyan Flame](https://cdn.modrinth.com/data/5st0q1SC/images/518375bcf5896662c8c9feba8e65c5cdf2727905.png)
+
+<div align="center">
+  
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-cyan-flame?style=flat&logo=modrinth&label=Downloads&color=00ae5b)](https://modrinth.com/resourcepack/wynncraft-cyan-flame)
 [![Static Badge](https://img.shields.io/badge/License-ARR-blue)](https://github.com/met4lmix/Wynncraft-Cyan-flame/blob/main/LICENCE.md)
+
+</div>
 
 
 > **Summary**
