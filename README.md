@@ -1,7 +1,8 @@
-# Wynncraft Cyan flame
-[![Download](https://github.com/met4lmix/Download-buttons/blob/main/modrinth_download.png)](https://modrinth.com/resourcepack/wynncraft-cyan-flame/versions)
+# Wynncraft: Cyan flame
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-cyan-flame?logo=modrinth)
+![Cyan Flame](https://cdn.modrinth.com/data/5st0q1SC/images/518375bcf5896662c8c9feba8e65c5cdf2727905.png)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-cyan-flame?style=flat&logo=modrinth&label=Downloads&color=00ae5b)](https://modrinth.com/resourcepack/wynncraft-cyan-flame)
+[![Static Badge](https://img.shields.io/badge/License-ARR-blue)](https://github.com/met4lmix/Wynncraft-Cyan-flame/blob/main/LICENCE.md)
 
 
 > **Summary**
@@ -17,10 +18,7 @@
 
 > **Note**
 
-- Make sure to place it on top of the server pack for it to work (require [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker) or [Serverpack Priority](https://modrinth.com/mod/serverpack-priority))
+- Make sure to place it on top of the server pack (require [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker) or [Serverpack Priority](https://modrinth.com/mod/serverpack-priority))
 - If blocks do not glow (because of **Sodium**), you will need [Continuity](https://modrinth.com/mod/continuity) with **_Emissive ON_**.
+- If you are using **sodium** and the _lava fog_ is not recolored then install [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support).
 - For the **smaller-fire** version, you can use it without the **main** version.
-
-> **Licence**
-
-- https://github.com/met4lmix/-Wynncraft-Cyan-flame/blob/main/LICENCE.md
