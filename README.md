@@ -10,6 +10,7 @@
   
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-cyan-flame?style=flat&logo=modrinth&label=Downloads&color=00ae5b)](https://modrinth.com/resourcepack/wynncraft-cyan-flame)
 [![Static Badge](https://img.shields.io/badge/License-ARR-blue)](https://github.com/met4lmix/Wynncraft-Cyan-flame/blob/main/LICENCE.md)
+[![ko-fi](https://img.shields.io/badge/Support-8A2BE2?style=flat&logo=Ko-fi&logoColor=white&color=gray)](https://ko-fi.com/K3K51RMPIV)
 
 </div>
 
@@ -31,9 +32,3 @@
 - If blocks do not glow (because of **Sodium**), you will need [Continuity](https://modrinth.com/mod/continuity) with **_Emissive ON_**.
 - If you are using **sodium** and the _lava fog_ is not recolored then install [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support).
 - For the **smaller-fire** version, you can use it without the **main** version.
-
-<div align="center">
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K51RMPIV)
-
-</div>
